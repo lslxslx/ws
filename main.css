@@ -134,7 +134,7 @@ main {
 
 figure {
     height: 0;
-    padding-top: 13%;
+    padding-top: 16%;
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center left;
@@ -162,6 +162,6 @@ details p {
 
 @media screen and (min-width: 900px) {
     figure {
-        padding-top: 10%;
+        padding-top: 11%;
     }
 }
