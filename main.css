@@ -60,9 +60,9 @@ html {
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --theme-colour: #c8c8c8;
-        --color: #2b2b2b;
-        --title-color: #9f9f9f9c;
+        --theme-colour: #01050e;
+        --color: #bababa;
+        --title-color: #14121adb;
     }
 }
 
