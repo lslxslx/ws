@@ -128,7 +128,7 @@ a {
 
 main {
     margin: 30px;
-    margin: 5vh 10vw 20vh;
+    margin: 5vh auto 20vh;
     max-width: 860px;
 }
 
